@@ -1,0 +1,7 @@
+.section {
+    background-color: #32435D70;
+    border-radius: 15px;
+    padding: 10px 15px;
+    justify-self: center;
+    grid-column: 2 / 4;
+}

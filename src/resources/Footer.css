@@ -1,0 +1,11 @@
+.web-footer {
+    background-color: #151D28;
+    border-top: 1px solid #DCE0D940;
+    display: inline-flex;
+    flex: row wrap;
+    justify-content: space-evenly;
+    height: auto;
+    gap: 20px;
+    width: 100%;
+    padding: 15px 100px;
+}

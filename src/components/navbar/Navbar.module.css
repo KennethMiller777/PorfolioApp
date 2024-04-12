@@ -1,0 +1,26 @@
+.navbar {
+    color: white;
+}
+
+.navlist {
+    color: white;
+    list-style-type: none;
+    display: inline-flex;
+    flex-flow: row wrap;
+    gap: 30px;
+}
+
+.navitem {
+    margin: 5px
+}
+
+.navitem a {
+    padding: 8px 10px;
+    border-radius: 5px;
+    color: white;
+}
+    .navitem a:hover {
+        background-color: #5516F3;
+        text-decoration: none;
+        transition: background-color .25s;
+    }

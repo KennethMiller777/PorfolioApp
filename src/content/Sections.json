@@ -1,0 +1,91 @@
+[
+    {
+        "id": "about",
+        "type": "text",
+        "header": "About Me",
+        "paragraphs": [
+            "Dynamic and results-driven professional with 3+ years of robust experience in architecting, designing, and implementing scalable web applications. Proficient in multiple programming languages including JavaScript, Python, and Java. Demonstrated expertise in database management systems including SQL and NoSQL databases. Proven ability to prioritize projects and define development schedule, thereby delivering high-quality software solutions on time, within budget, and as per user specifications. Strong communication skills to facilitate seamless cross-functional communication with diverse teams as well as forge relationships with key stakeholders and clients. Committed to staying updated with emerging technologies and industry best practices to drive innovation and optimize performance."
+        ]
+    },
+    {
+        "id": "background",
+        "type": "history",
+        "header": "Professional Background",
+        "orgs": [
+            {
+                "name": "Datix LLC",
+                "dates": "(Dec 2021 - Jan 2024)",
+                "positions": [
+                    {
+                        "title": "Software Engineer",
+                        "dates": "(Jul 2022 - Jan 2024)",
+                        "description": "Develop and test software solutions tailored to user requirements, facilitating seamless code deployment from development to production environments. Engineer scalable web applications and improve their aesthetic and functionality by incorporating modern techniques and style libraries. Implement real-time SignalR functionality in product web applications, optimizing system performance and potential cost savings. Design tests cases, analyze and refine QA and QC techniques, and enhance software quality and reliability. Collaborate within cross-functional teams, contributing to dynamic and innovative work environment. Significantly contributed to website and blog migration from HubSpot to WordPress, optimizing platform efficiency and company's online presence. Prioritized and managed project deliverables using agile methodology, leading to successful project outcomes and adherence to deadlines. Elevated project efficiency and transparency by spearheading sprint meetings, and managing Jira storyboards to ensure seamless issue tracking and progress monitoring."
+                    },
+                    {
+                        "title": "Software Engineer Intern",
+                        "dates": "(Dec 2021 - Jul 2022)",
+                        "description": "Enhanced Datix Intelligrate solutions and projects by enhancing product web app and developing backend code libraries to improve API integration using ASP.NET C#. Conducted thorough testing and debugging of software products to maintain high-quality functionality. Utilized expertise to enhance web application pages, conducting thorough testing to ensure optimal functionality, refining aesthetics, and rectifying coding errors. Modernized legacy systems, ensuring compatibility with current projects by updating outdated code. Facilitated project version control and workflow efficiency through the proficient use of Git control applications. Boosted productivity and functionality by refining Datix Intelligrate initiatives, creating backend code repositories, optimizing systems, and refining database entries using MS Azure Cosmos DB. Updated outdated code to integrate with updated API versions including WordPress, Salesforce, and HubSpot. Gained proficiency in navigating and modifying cloud infrastructure within Microsoft Azure environments, as well as proficiently managing and testing data within Cosmos DB using NoSQL technology. "
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "id": "education",
+        "type": "history",
+        "header": "Education",
+        "orgs": [
+            {
+                "name": "Southern New Hampshire University",
+                "dates": "",
+                "positions": [
+                    {
+                        "title": "Master's Degree in Computer Science",
+                        "dates": "(Aug 2021 - May 2024)",
+                        "description": ""
+                    },
+                    {
+                        "title": "Bachelor's Degree in Computer Science",
+                        "dates": "(Jun 2016 - Apr 2021)",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "header": "Certifications",
+        "id": "certs",
+        "type": "list",
+        "items": [
+            {
+                "name": "Front-End Engineer",
+                "date": "March 2024",
+                "url": "https://www.codecademy.com/profiles/blog6080222988/certificates/2682884a0719474f96407efe432fdd87"
+            },
+            {
+                "name": "React Basic",
+                "date": "March 2024",
+                "url": "https://www.hackerrank.com/certificates/4f81a304d344"
+            },
+            {
+                "name": "C# Basic",
+                "date": "March 2024",
+                "url": "https://www.hackerrank.com/certificates/0e2e162eda2d"
+            }
+        ]
+    },
+    {
+        "header": "Skills",
+        "id": "skills",
+        "type": "list",
+        "items": [
+            {
+                "name": "React.js",
+                "date": ""
+            }
+        ]
+    }
+]

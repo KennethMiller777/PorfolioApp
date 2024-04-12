@@ -1,0 +1,11 @@
+.web-main {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+    row-gap: 25px;
+}
+
+.content-header {
+    margin-top: 25px;
+    grid-column: 2 / 3;
+}

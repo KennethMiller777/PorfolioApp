@@ -1,0 +1,18 @@
+.contactinfo {
+    padding: 0px 15px;
+}
+
+.contactlist {
+    list-style-type: none;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 5px;
+}
+
+.contactlist a {
+    color: #5516F3;
+    text-decoration: none;
+}
+    .contactlist a:hover {
+        text-decoration: double;
+    }
